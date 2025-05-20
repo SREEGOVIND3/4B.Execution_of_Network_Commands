@@ -14,6 +14,7 @@ Command Prompt And Network Protocol Analyzer
 6. Stop the program
 ```
 ## Procedure: To do this EXPERIMENT- follows these steps:
+```
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
 <BR>
@@ -37,6 +38,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+```
 ##  TRACEROUTE
 ##  Command :
 ```
